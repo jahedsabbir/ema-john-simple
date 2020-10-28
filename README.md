@@ -21,7 +21,7 @@
 
             -> Users have to sign up on the personal page
 
-            -> Pay online using credit cardElement
+            -> Pay online using credit card
 
             -> users  have to   order  product with her information 
 
